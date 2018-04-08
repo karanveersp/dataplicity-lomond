@@ -2,7 +2,7 @@
 Coroutine Parser
 ================
 
-This little but of 'magic' makes parsing a stream of bytes from a socket
+This little bit of 'magic' makes parsing a stream of bytes from a socket
 a relatively pain-free exercise.
 
 """
